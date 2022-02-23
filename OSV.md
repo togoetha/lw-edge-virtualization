@@ -28,6 +28,8 @@ Copy the folder go-rest-api-osv to <osv dir>/apps/
 Go to the OSv base directory and execute the build script:
 
     sudo ./scripts/build image=go-rest-api
+    
+Find something else to do in the meantime, because this takes a while.
 
 ## Routing rules
 
