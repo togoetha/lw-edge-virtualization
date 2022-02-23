@@ -1,0 +1,7 @@
+name: go-rest-api
+title: Go rest service
+author: tg
+version: "1.0"
+require:
+- osv.run-go
+created: "2022-01-25T16:13:52+01:00"
