@@ -12,7 +12,7 @@ Get the 0.25.2 release specifically:
     cd firecracker-v0.25.2-aarch64
     sudo cp firecracker-v0.25.2-aarch64 /usr/local/bin/firecracker
     
-At this point, you should be fine. However, if firecracker doesn't feel like cooperating you may have to set up a socket manually when using firectl:
+At this point, you should be fine. However, if firecracker doesn't feel like cooperating you may have to set up a socket manually when using firectl in the last step:
 
     rm -f /tmp/firecracker.socket
     sudo firecracker --api-sock /tmp/firecracker.socket
