@@ -31,7 +31,7 @@ Install Golang from the instructions at https://go.dev/doc/install (choose corre
     wget https://go.dev/dl/go1.17.7.linux-arm64.tar.gz
     sudo rm -rf /usr/local/go && sudo tar -C /usr/local -xzf go1.17.7.linux-arm64.tar.gz
 
-Get the repo and build using Golang:
+Clone the repo and build using Golang:
 
     git clone https://github.com/firecracker-microvm/firectl.git
     cd firectl
