@@ -38,7 +38,7 @@ Clone the repo and build using Golang:
     make
     
 Optionally, copy the resulting firectl executable to /usr/local/bin so it can hang out with the firecracker binary.
-The build may get stuck on fetching go libraries, so you may have to retry for no reason.
+The build can time out on fetching go libraries, so you may have to retry for no reason.
 
 ## Get the Golang filesystem compilation template
 
