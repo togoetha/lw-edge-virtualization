@@ -48,7 +48,7 @@ Clone the repo and build:
     cd firecracker-go-template
     make
     
-You may get an error along the lines of <docker image does not exist locally>. If so, pull it manually and retry. Then find something useful to do, as the build takes a while.
+You may get an error along the lines of "docker image does not exist locally". If so, pull it manually and retry. Then find something useful to do, as the build takes a while.
 
 ## Create filesystem
   
